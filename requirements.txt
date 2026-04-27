@@ -1,4 +1,6 @@
 fastapi
 uvicorn[standard]
-torch
+python-multipart
 pillow
+numpy
+soundfile
